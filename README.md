@@ -37,6 +37,6 @@ _Optional_:
 
 3. to pass in a custom max_sequence length
 
-  ```bash
-    --max-seq-length 10024
-  ```
+   ```bash
+   --max-seq-length 10024
+   ```
