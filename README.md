@@ -11,5 +11,5 @@ bash call.sh
 
 Key artifacts
 
-Latest granite model for instructlab's tokenizer.json file: tokenizerfiles/granite-3.1-8b-starter-v2.1/tokenizer.json
+Latest granite model for instructlab's tokenizer.json file: tokenizerfiles/granite-3.1-8b-starter-v2.1/tokenizer.json. Can be retrieved from: https://catalog.redhat.com/software/containers/rhelai1/granite-3.1-8b-starter-v2.1/683eb332cd4c9ca32ff898a3?gs&q=granite-3.1-8b-starter
 
