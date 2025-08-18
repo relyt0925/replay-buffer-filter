@@ -18,7 +18,9 @@ bash call.sh
 _Defaults_:
 
 Replay buffer: `registry.redhat.io/rhelai1/instructlab-nvidia-rhel9:1.5.2-1750154648`
+
 Tokenizer file: `tokenizerfiles/granite-3.1-8b-starter-v2.1/tokenizer.json` retrieved from [here](https://catalog.redhat.com/software/containers/rhelai1/granite-3.1-8b-starter-v2.1/683eb332cd4c9ca32ff898a3?gs&q=granite-3.1-8b-starter)
+
 Max sequence length: `10024`
 
 _Optional_: 
